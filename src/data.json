@@ -1,0 +1,16 @@
+[{
+    "name": "Person",
+    "image": "https://images.pexels.com/photos/462680/pexels-photo-462680.jpeg?w=940&h=650&auto=compress&cs=tinysrgb",
+    "team": "Example", 
+    "trainer": false
+}, {
+    "name": "Person",
+    "image": "https://images.pexels.com/photos/295564/pexels-photo-295564.jpeg?w=940&h=650&auto=compress&cs=tinysrgb",
+    "team": "Example", 
+    "trainer": false
+},{
+    "name": "Person",
+    "image": "https://images.pexels.com/photos/462680/pexels-photo-462680.jpeg?w=940&h=650&auto=compress&cs=tinysrgb",
+    "team": "Example", 
+    "trainer": false
+}]
